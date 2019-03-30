@@ -1,2 +1,5 @@
 # WebConference
-Create an example of web conference
+Aplicação para gerir uma conferência
+Primeira alteração!
+
+
